@@ -2,3 +2,5 @@
 <a href="https://www.linkedin.com/in/mohilat/">
   <img align="left" alt="Stephan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+- 💼 any freelance work? do reach, [email](mailto:mohilat.web.dev@gmail.com) :)
