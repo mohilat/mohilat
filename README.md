@@ -5,4 +5,6 @@
 
 <br />
 
+hi, i'm [Stepan Mohilat](https://iammohilat.com), a passionate self-taught front-end web and mobile apps developer from Ukraine.
+
 - 💼 any freelance work? do reach, [email](mailto:mohilat.web.dev@gmail.com) :)
