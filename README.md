@@ -7,7 +7,7 @@
 
 <br />
 
-I'm Stepan, a passionate front-end web and mobile apps developer.
+I'm Stepan, a passionate front-end web and mobile apps developer
 
 - 💼 any freelance work? do reach, [email](mailto:mohilat.web.dev@gmail.com) :)
 
