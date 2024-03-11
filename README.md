@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Stepan [<img alt="Stephan's LinkedIN" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />](https://www.linkedin.com/in/mohilat/), a passionate front-end web and mobile apps developer
+I'm Stepan → [<img alt="Stephan's LinkedIN" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />](https://www.linkedin.com/in/mohilat/), a passionate front-end web and mobile apps developer
 
 - 💼 any freelance work? do reach, [email](mailto:mohilat.web.dev@gmail.com)
   
