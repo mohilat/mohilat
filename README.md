@@ -6,7 +6,7 @@ I'm Stepan, a passionate front-end web and mobile apps developer
 <a href="https://www.linkedin.com/in/mohilat/">
   <img align="left" alt="Stephan's LinkedIN" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
-
+<br />
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
