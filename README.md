@@ -1,13 +1,12 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/mohilat/">
-  <img align="left" alt="Stephan's LinkedIN" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mohilat.mohilat)
 
 <br />
 
-I'm Stepan, a passionate front-end web and mobile apps developer
+I'm Stepan <a href="https://www.linkedin.com/in/mohilat/">
+  <img align="left" alt="Stephan's LinkedIN" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
+</a>, a passionate front-end web and mobile apps developer
 
 - 💼 any freelance work? do reach, [email](mailto:mohilat.web.dev@gmail.com) :)
 
