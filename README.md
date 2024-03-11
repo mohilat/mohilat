@@ -3,7 +3,7 @@
 I'm Stepan, a passionate front-end web and mobile apps developer
 
 - 💼 any freelance work? do reach, [email](mailto:mohilat.web.dev@gmail.com)
-<a href="https://www.linkedin.com/in/mohilat/">
+<a href="https://www.linkedin.com/in/mohilat/" style="display: inline-block; margin-bottom: 20px;>
   <img align="left" alt="Stephan's LinkedIN" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
 
